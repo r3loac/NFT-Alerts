@@ -1,0 +1,15 @@
+{
+  "backgrounds": [],
+  "excluded_gifts": [
+    "Plush Pepe",
+    "Durov's Cap",
+    "Durovs Cap",
+    "Durove Cap",
+    "Heart Locket",
+    "Hear Locket"
+  ],
+  "max_price": 560,
+  "min_profit": 67,
+  "commission_enabled": false,
+  "enabled": true
+}
